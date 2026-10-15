@@ -8,6 +8,8 @@ This dashboard was created for Job Seekers, Job Transitioners, and Job Swappers 
 ### Dashboard File
 You can find the file for the dashboard here: [Data_Jobs_Dashboard](https://github.com/hioenataterence-commits/Power_BI_Dashboard/blob/main/Data_Jobs_Dashboard.pbix)
 
+<sup><sub>*Note: This project requires Microsoft Power BI Desktop to open and interact with the .pbix file. Power BI Desktop is available for Windows.*</sub></sup>
+
 
 ## Skills Showcased
 This project was a journey through key Power BI features. Here's a look at what we mastered:
