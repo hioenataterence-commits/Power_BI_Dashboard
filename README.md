@@ -34,7 +34,7 @@ This project explores job market data to better understand trends in data-relate
 
 This is the second version of my Data Jobs Dashboard project, redesigned into a single-page layout to make it easier to explore the 2024 data job market. It provides an overview of job postings, required skills, and salary information, helping users compare job titles and identify popular skills.
 
-![Data Jobs Dashboard V2](/images/Project2_Page1.png)
+![Data Jobs Dashboard V2](/images/Project2_Dashboard_Overview.gif)
 
 ### **🛠️ Key Power BI Skills Utilized (V2):**
 
